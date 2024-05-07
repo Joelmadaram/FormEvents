@@ -1,5 +1,5 @@
 const formEvent = document.querySelector('#shelterForm');
-const input = document.querySelector('#catName');
+const input = document.querySelector('#carName');
 const list = document.querySelector('#lists');
 formEvent.addEventListener('submit', function(e) {
     e.preventDefault();
